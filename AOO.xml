@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+   <ServerGroup Name="Age of Oblivion" Logo="" Description="">
+      <Server Name="Age of Oblivion" Logo="">
+         <Description>
+Age of Oblivion Alpha 5 Overhaul
+
+This is the most Stable release of AOO
+		 
+This Mod is still in Development and you will most likely experience some bugs and a Balance issues.
+
+Update Information can be found at https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/  and on our Discord https://discord.gg/4UX3HZ7gka
+
+Teaser: https://youtu.be/6FYPlzEl_60
+
+Main Features:
+
+Farming and Food!
+Many more Workstations
+Vehicle Overhaul
+New Creatures
+
+IMPORTANT:   This  Release Requires that you  Create a new map or use one of the included AOO Pregen Maps.  If you experience Traders that are 20 blocks in the air it is becuse you are not using a newly generated map.
+
+	 </Description>
+	 <Version>Latest</Version>
+	 <DownloadMode>Clone</DownloadMode>
+         <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
+         <Downloads>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_%20A20_A5_Stable</Download>
+         </Downloads>
+      </Server>
+	  
+<!--	      <Server Name="Age of Oblivion Experimental" Logo="">
+         <Description>
+
+Requires latest experimental version of the game!		 
+
+This is  an experimental release of the upcoming  Alpha 5 release of Age of Oblivion. This build is meant for testing purposes and  may updated often.  use only for testing purposes at your own Risk.    This new version will require that you Create a new map with the Mod installed to  make sure that the Custom Trader Outposts are generated correctly. A new game is required.   If you chosse to test this build please join our discord and provide feedback https://discord.gg/J6C8K6Xs5x  If you choose to stream or make content with this build please just make sure your audience is aware that this is a test build.
+
+	 </Description>
+	 <Version>latest_experimental</Version>
+	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
+	 <DownloadMode>Clone</DownloadMode>
+         <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
+         <Downloads>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A5_Experimental?Branch=main</Download>
+         </Downloads>
+      </Server> -->
+   </ServerGroup>
+</Servers>
