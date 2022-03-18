@@ -3,7 +3,18 @@
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
       <Server Name="Age of Oblivion" Logo="">
          <Description>
-Age of Oblivion Alpha 5.1 Overhaul
+Age of Oblivion Alpha 5.11 Overhaul
+
+
+Version 5.11 - Released March 18 2022
+
+Fixed Blocked door in Trader Dungeon
+Added Mega Crush recipe to the Drink dispenser
+Add Begginer mode Starting Item.  Read this to get Boost  while you are level 1-10.
+Fixed Pet Rabbit Spawner
+Fixed zombies that were trying to attack others.
+Made adjustments on the frequencly of some sounds
+
 
 Version 5.1 - Released March 14 2022
 
