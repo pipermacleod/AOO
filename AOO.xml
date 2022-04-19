@@ -3,7 +3,20 @@
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
       <Server Name="Age of Oblivion" Logo="">
          <Description>
-Age of Oblivion Alpha 5.11 Overhaul
+Age of Oblivion Alpha 5.20 Overhaul
+
+
+
+Version 5.2 - Released  April 19 2022
+
+Removed Telporting doors from Traders (eratic behavior in Multiplayer)
+Updated NPC Mod (Improved performanced)
+UI Improvements - 15 Slot Toolbelt, Searchable Inventory
+
+New vehicles from Upcoming A6 release can be previewed using the creative menu.
+
+In order to  have  the fixes to the  teleporters in traders you will need to start a new game. 
+
 
 
 Version 5.11 - Released March 18 2022
