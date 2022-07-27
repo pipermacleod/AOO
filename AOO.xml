@@ -75,21 +75,38 @@ IMPORTANT:   This  Release Requires that you  Create a new map or use one of the
          </Downloads>
       </Server>
 	  
-<!--	      <Server Name="Age of Oblivion Experimental" Logo="">
+	      <Server Name="Age of Oblivion  A6 Release Candidate!" Logo="">
          <Description>
 
-Requires latest experimental version of the game!		 
+Release Candidate 1 for the A6 version of AOO!	 
+It is finally here with big improvements and Additions!
 
-This is  an experimental release of the upcoming  Alpha 5 release of Age of Oblivion. This build is meant for testing purposes and  may updated often.  use only for testing purposes at your own Risk.    This new version will require that you Create a new map with the Mod installed to  make sure that the Custom Trader Outposts are generated correctly. A new game is required.   If you chosse to test this build please join our discord and provide feedback https://discord.gg/J6C8K6Xs5x  If you choose to stream or make content with this build please just make sure your audience is aware that this is a test build.
+Not Limited to:
+End Game POI's!  Dark Castle and Turdlingers Research Facility!  
+Teleporters
+Monsters
+Caves
+Vehicle Trader with 9 Road Warrior  Vehicles that you can only get by trading in other vehicles!
+New type of Auto miner and Drink Workstations
+Changes to what animals can be pets. Pets can be found in wild and hired witht he appropriate food!  Cats need Cat food, dogs need Dog food!
+
+Lots  of Changes!
+
+This will 100% require a new game and you MUST use the included Pregen Map "AOOPregen8k_01"  More Maps will be coming!
+
+Remember to Disable EAC and  all file must be on both the server and the Client!
+
+
+Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>latest_experimental</Version>
+	 <Version>A6 Release Candidate</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A5_Experimental?Branch=main</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6_ReleaseCandidate_01</Download>
          </Downloads>
-      </Server> -->
+      </Server> 
    </ServerGroup>
 </Servers>
