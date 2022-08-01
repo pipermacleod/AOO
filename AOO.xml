@@ -78,6 +78,21 @@ IMPORTANT:   This  Release Requires that you  Create a new map or use one of the
 	      <Server Name="Age of Oblivion  A6 Release Candidate!" Logo="">
          <Description>
 
+
+
+Release Candidate 2 for the A6 version of AOO!	
+
+Fixed some issues with enemy spawning in Trader Dungeons.
+Temporary Changes:
+Craft from Storage is disabled (Was allowing for infinate Crafting)
+Soda and Juice dispensers no longer require Power as it was no working on Servers. 
+Auto miner no longer need to be place on Forest Ground. (Wasnt working on Servers)
+
+ note:  When on Server the Dispenser and the miner need to be closed to operate. (another odd server bug)
+ When the code is fixed these features will be back.
+
+
+
 Release Candidate 1 for the A6 version of AOO!	 
 It is finally here with big improvements and Additions!
 
