@@ -80,6 +80,15 @@ IMPORTANT:   This  Release Requires that you  Create a new map or use one of the
 
 
 
+
+Release candidate 3 for the A6 version of AOO!
+- Multipoint Teleporters are removed.   Issues with them on servers. (they are made as a SP Modlet)
+- Teleporters that were causing errors on Servers have been fixed.
+- Craft from containers a is back and should work properly!
+- Helicoptors fixed
+
+
+
 Release Candidate 2 for the A6 version of AOO!	
 
 Fixed some issues with enemy spawning in Trader Dungeons.
