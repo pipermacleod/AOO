@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
-      <Server Name="Age of Oblivion" Logo="">
+      <Server Name="Age of Oblivion A5.25" Logo="">
          <Description>
-Age of Oblivion Alpha 5.20 Overhaul
+		 
+This is Provided for legacy reasons. We highly Reccomend you Use A6!		 
+		 
+		 
+Age of Oblivion Alpha 5.25 Overhaul
 
 
 
@@ -75,8 +79,20 @@ IMPORTANT:   This  Release Requires that you  Create a new map or use one of the
          </Downloads>
       </Server>
 	  
-	      <Server Name="Age of Oblivion  A6 Release Candidate!" Logo="">
+	      <Server Name="Age of Oblivion  A6 - Mostly Stable" Logo="">
          <Description>
+
+
+
+A6 - Mostly Stable!
+
+We say Mostly stable since we never really know for sure until a lot more people start playing!
+
+Fixed  Burnt Zombies spawning like crazy in RC5
+Fixed Water not Stacking (Unfortunatley water jars cannot be used to put out fires now)
+Fixe loot in Crates found in Dark Castle.
+
+
 
 
 Release candidate 5 for the A6 version of AOO!
@@ -135,12 +151,12 @@ Remember to Disable EAC and  all file must be on both the server and the Client!
 Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>A6 Release Candidate</Version>
+	 <Version>A6 - Mostly Stable</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6_ReleaseCandidate_01</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6_MostlyStable</Download>
          </Downloads>
       </Server> 
    </ServerGroup>
