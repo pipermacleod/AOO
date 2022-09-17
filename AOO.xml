@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
-      <Server Name="Age of Oblivion A5.25" Logo="">
+  <!--    <Server Name="Age of Oblivion A5.25" Logo="">
          <Description>
 		 
 This is Provided for legacy reasons. We highly Reccomend you Use A6!		 
@@ -77,12 +77,22 @@ IMPORTANT:   This  Release Requires that you  Create a new map or use one of the
          <Downloads>
 			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_%20A20_A5_Stable</Download>
          </Downloads>
-      </Server>
+      </Server> -->
 	  
-	      <Server Name="Age of Oblivion  A6.001 - Mostly Stable" Logo="">
+	      <Server Name="Age of Oblivion  A6.1 - Mostly Stable" Logo="">
          <Description>
 
 
+
+
+A6.1
+
+- If you have 5k Dukes you can now ask the trader to reset the Chamber Below him!
+- Fish!   you can now find Fish in Water!   Stun them with a weapon and then loot them to get a spawnable version that you can put in your own private pond/aquarium!  (Net yet able to be used for food)
+- Added Military APC and Apache Helicopter that with working Weapons!
+- Made Air Drops GOOD!!
+-Adjusted the way Oblivion crates Spawn Enemies,  Different enemies and possibly even an npc for you to hire!  IF they spawn something then Crate is destroyed.... no loot for you!
+- you no longer get as many vehicle tokens for trading in Rickshaws. you now get 1 token for every pair of rickshaws you trade in.  (It was way to easy to get a RW vehicle too early)  this is just the first change to see how it makes a difference.  Vehicle cost may need to also go up.
 
 
 A6.001
@@ -157,7 +167,7 @@ Remember to Disable EAC and  all file must be on both the server and the Client!
 Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>A6 - Mostly Stable</Version>
+	 <Version>A6.1 - Mostly Stable</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
