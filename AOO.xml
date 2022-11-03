@@ -1,85 +1,44 @@
-<xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
-  <!--    <Server Name="Age of Oblivion A5.25" Logo="">
+ 
+
+
+     <Server Name="Age of Oblivion  A6.5 - Stable" Logo="">
          <Description>
-		 
-This is Provided for legacy reasons. We highly Reccomend you Use A6!		 
-		 
-		 
-Age of Oblivion Alpha 5.25 Overhaul
+
+A6.5 will be the last version until 7 Days A21 is released.
+
+This Version will Require a new game . (this is why it is a seperate download) 
+
+A bunch if little fixes and adjustment and also a major cleanup of Food and Crops.  Many food items and  an crops have been removed in order to make them more usable. Removed many redundant  items and  added additional buffs to almost all food. Making some food much more beneficial to eat. Removed the refridgerator and the Ice Maker.
 
 
+Reminder: Existing Maps will not work with AOO. they will result in elevated traders and will be missing critical poi's.
+RWG worlds may work but may be missing  POI's.  there are two pregen maps included: AOOPregen8k_01 and AOOPregen10k_01.
+
+10K map is reccomended as it has a bunch of new poi's.
 
 
-
-Version 5.25 Released
-
-Fixed Issues with UI: Scrolling inventory and retrievign backpack
-Adjusted Mother Clucker Spawning from Nests. Less chance of happening and now you need to be closer to the nests.
-
-7dtd Alpha 20.4 is required!  
+Remember to Disable EAC and  all file must be on both the server and the Client!
 
 
-
-
-Version 5.2 - Released  April 19 2022
-
-Removed Telporting doors from Traders (eratic behavior in Multiplayer)
-Updated NPC Mod (Improved performanced)
-UI Improvements - 15 Slot Toolbelt, Searchable Inventory
-
-New vehicles from Upcoming A6 release can be previewed using the creative menu.
-
-In order to  have  the fixes to the  teleporters in traders you will need to start a new game. 
-
-
-
-Version 5.11 - Released March 18 2022
-
-Fixed Blocked door in Trader Dungeon
-Added Mega Crush recipe to the Drink dispenser
-Add Begginer mode Starting Item.  Read this to get Boost  while you are level 1-10.
-Fixed Pet Rabbit Spawner
-Fixed zombies that were trying to attack others.
-Made adjustments on the frequencly of some sounds
-
-
-Version 5.1 - Released March 14 2022
-
-Provides Optimized and tweaked zombies/Creatures
-Adds 20 new Creatures.
-Otehr small fixes
-
-
-
-This is the most Stable release of AOO
-		 
-This Mod is still in Development and you will most likely experience some bugs and a Balance issues.
-
-Update Information can be found at https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/  and on our Discord https://discord.gg/4UX3HZ7gka
-
-Teaser: https://youtu.be/6FYPlzEl_60
-
-Main Features:
-
-Farming and Food!
-Many more Workstations
-Vehicle Overhaul
-New Creatures
-
-IMPORTANT:   This  Release Requires that you  Create a new map or use one of the included AOO Pregen Maps.  If you experience Traders that are 20 blocks in the air it is becuse you are not using a newly generated map.
+Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>Latest</Version>
+	 <Version>A6.5 - Stable</Version>
+	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_%20A20_A5_Stable</Download>
+			<Download> https://rmacleod.visualstudio.com/AOO/_git/AOO_A6.5</Download>
          </Downloads>
-      </Server> -->
+      </Server> 
+
+
+
 	  
-	      <Server Name="Age of Oblivion  A6.2 - Mostly Stable" Logo="">
+      <Server Name="Age of Oblivion  A6.2 - Mostly Stable" Logo="">
          <Description>
 
 
