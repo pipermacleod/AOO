@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Age of Oblivion A6.8 Experimental" Logo="" Description="">
+   <ServerGroup Name="Age of Oblivion" Logo="" Description="">
       <Server Name="Age of Oblivion A6.8 Experimental" Logo="">
          <Description>
 Age of Oblivion Alpha 6.8(7) Experimental
@@ -10,6 +10,7 @@ Age of Oblivion Alpha 6.8(7) Experimental
 
 	 </Description>
 	 <Version>Experimental</Version>
+	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>	 
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes></ReleaseNotes>
          <Downloads>
