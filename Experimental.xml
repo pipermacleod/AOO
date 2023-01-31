@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Age of Oblivion Pre-Release Test" Logo="" Description="">
-      <Server Name="Age of Oblivion Pre-Release Test" Logo="">
+   <ServerGroup Name="Age of Oblivion Experimental" Logo="" Description="">
+      <Server Name="Age of Oblivion Experimental" Logo="">
          <Description>
-Age of Oblivion Alpha 6 Pre-Release Test
+Age of Oblivion Alpha 6.8(7) Experimental
 
 
 
 
 	 </Description>
-	 <Version>Pre-Release Test</Version>
+	 <Version>Experimental</Version>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes></ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6_PreRelease</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/A7-Experimental</Download>
          </Downloads>
       </Server>
 	  
