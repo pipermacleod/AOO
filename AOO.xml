@@ -4,43 +4,8 @@
  
 
 
-     <Server Name="Age of Oblivion  A6.5 - Stable" Logo="">
+     <Server Name="Age of Oblivion  A6.8 - Stable" Logo="">
          <Description>
-
-A6.5 will be the last version until 7 Days A21 is released.
-
-This Version will Require a new game . (this is why it is a seperate download) 
-
-A bunch if little fixes and adjustment and also a major cleanup of Food and Crops.  Many food items and  an crops have been removed in order to make them more usable. Removed many redundant  items and  added additional buffs to almost all food. Making some food much more beneficial to eat. Removed the refridgerator and the Ice Maker.
-
-
-Reminder: Existing Maps will not work with AOO. they will result in elevated traders and will be missing critical poi's.
-RWG worlds may work but may be missing  POI's.  there are two pregen maps included: AOOPregen8k_01 and AOOPregen10k_01.
-
-10K map is reccomended as it has a bunch of new poi's.
-
-
-Remember to Disable EAC and  all file must be on both the server and the Client!
-
-
-Please join the discord to report Bugs and feed back so we can quickly get to stable!
-
-	 </Description>
-	 <Version>A6.5 - Stable</Version>
-	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
-	 <DownloadMode>Clone</DownloadMode>
-         <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
-         <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A6.5</Download>
-         </Downloads>
-      </Server> 
-
-
-
-	  
-        <Server Name="Age of Oblivion A6.8 Release Candidate" Logo="">
-         <Description>
-Age of Oblivion Alpha 6.8(7) Release Candidate
 
 Last Update Unitl A21!
 
@@ -54,19 +19,25 @@ NEW 8k MAP!  you want to try this Map out!  completley Custom Map!
  Minor Improvements to all Trader Chambers
  New Wandering Hordes!
  
- Only Map that can be used right now is AOOPregen10k_01
- 
+YOU MUST USE ONE OF THE AOOPREGEN MAPS!
 
 
+Remember to Disable EAC and  all file must be on both the server and the Client!
+
+
+Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>Experimental</Version>
-	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>	 
+	 <Version>A6.5 - Stable</Version>
+	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
-         <ReleaseNotes></ReleaseNotes>
+         <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
          <Downloads>
 			<Download>https://rmacleod.visualstudio.com/AOO/_git/A7-Experimental</Download>
          </Downloads>
-      </Server>
+      </Server> 
+
+
+
    </ServerGroup>
 </Servers>
