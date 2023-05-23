@@ -28,7 +28,8 @@ Remember to Disable EAC and  all file must be on both the server and the Client!
 Please join the discord to report Bugs and feed back so we can quickly get to stable!
 
 	 </Description>
-	 <Version>A6.5 - Stable</Version>
+	<Deploy>Full</Deploy>  
+	 <Version>A6.8 - Stable</Version>
 	 <Discord>https://discord.gg/J6C8K6Xs5x</Discord>
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes>https://community.7daystodie.com/topic/23943-age-of-oblivion-alpha-25-new/</ReleaseNotes>
