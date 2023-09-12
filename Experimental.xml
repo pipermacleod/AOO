@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
-   <ServerGroup Name="Age of Oblivion - Experimental" Logo="" Description="">
-      <Server Name="Age of Oblivion A7 Experimental" Logo="">
+   <ServerGroup Name="Age of Oblivion - Public Experimental" Logo="" Description="">
+      <Server Name="Age of Oblivion A7.00.21.1 Experimental" Logo="">
          <Description>
-Age of Oblivion Alpha 7(7) Experimental
+		Age of Oblivion Alpha 7(7) Experimental
 
-
+		Please Join the discord to give feed back about the Experimantal and for any questions about the Changes!
+		
+		Alot  of big Changes and Improvements.
 
 
 	 </Description>
@@ -17,7 +19,4 @@ Age of Oblivion Alpha 7(7) Experimental
 			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A21_Testing</Download>
          </Downloads>
       </Server>
-	  
-
    </ServerGroup>
-</Servers>
