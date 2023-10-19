@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
    <ServerGroup Name="Age of Oblivion" Logo="" Description="">
-      <Server Name="Age of Oblivion A7.00 Experimental" Logo="">
+      <Server Name="Age of Oblivion A7 Stable" Logo="">
          <Description>
-		Age of Oblivion Alpha 7(7) Experimental
+		Age of Oblivion Alpha 7 Stable
 
 
-		NOTE: This latest update  (Oct11) will need a new map and Game.
 		
-		Read more at the Announcments in the discord.
+		Read more in the discord.
 
 
-		Please Join the discord to give feed back about the Experimantal and for any questions about the Changes!
+		Please Join the discord to give feed back for any questions about the Changes!
 		
 		Alot  of big Changes and Improvements.
 
@@ -22,7 +21,7 @@
 	 <DownloadMode>Clone</DownloadMode>
          <ReleaseNotes></ReleaseNotes>
          <Downloads>
-			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A21_Testing</Download>
+			<Download>https://rmacleod.visualstudio.com/AOO/_git/AOO_A7_Latest_Stable</Download>
          </Downloads>
       </Server>
    </ServerGroup>
